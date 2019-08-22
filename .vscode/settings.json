@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "editor.renderWhitespace": "all",
+  "editor.insertSpaces": false,
+  "editor.tabSize": 4,
+  "editor.detectIndentation": true,
+  "prettier.cssEnable": [""],
+  "cSpell.words": ["", "Repo", "bitbucket", "loadash", "mongodb", "planalchemy", "transpiling"]
+}
