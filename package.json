@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-express-mongo-api",
+  "name": "starter-kit-express-mongo-api",
   "author": "Bijesh Purushan <bijeshp009@gmail.com>",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node -r esm ./bin/www",
