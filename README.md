@@ -63,6 +63,11 @@ Instead of inserting and deleting console.log you can replace it with the debug 
 | Http Errors                                                       | Uses [http-errors](https://github.com/jshttp/http-errors#readme) to create HTTP Errors                                                                                                                                                                                                           |
 | Mongoose                                                          | Uses [Mongoose](https://mongoosejs.com/) for ODM ,Schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.                                                                            |
 
+## Code Organization
+<img width="663" alt="Screen Shot 2019-09-24 at 3 50 07 PM" src="https://user-images.githubusercontent.com/7260229/65556455-8d893500-dee4-11e9-926c-e32d2e2890b2.png">
+
+
+
 ## Getting Started
 
 Pre requisites
