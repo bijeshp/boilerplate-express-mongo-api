@@ -1,3 +1,6 @@
+# Express-MongoDB Starter Kit
+This is a  boilerplate application for building RESTful APIs Microservice in Node.js using express and mongo DB mongoose in ES6 with code coverage and other developer tools
+
 ## Development Dependencies
 
 ### ES6 Support
